@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+
+<key x="305" y="155" width="30" height="30" sym="122">
+<label x="0" y="0" width="30" height="30" image="media/a.png"/>
+</key>
+<key x="340" y="140" width="30" height="30" sym="120">
+<label x="0" y="0" width="30" height="30" image="media/b.png"/>
+</key>
+<key x="290" y="120" width="30" height="30" sym="97">
+<label x="0" y="0" width="30" height="30" image="media/c.png"/>
+</key>
+<key x="325" y="105" width="30" height="30" sym="115">
+<label x="0" y="0" width="30" height="30" image="media/d.png"/>
+</key>
+
+<key x="2" y="2" width="20" height="20" sym="51">
+<label x="0" y="0" width="20" height="20" image="media/coin.png"/>
+</key>
+<key x="2" y="32" width="20" height="20" sym="49">
+<label x="0" y="0" width="20" height="20" image="media/start.png"/>
+</key>
+
+<dpad x="2" y="120" width="90" height="90">
+<label x="0" y="0" width="90" height="90" image="media/dpad.png"/>
+</dpad>
+
+<key x="354" y="2" width="24" height="24" sym="294" image="media/rom.png">
+</key>
+<key x="326" y="2" width="24" height="24" sym="295" image="media/controller.png">
+</key>
+<key x="326" y="30" width="24" height="24" sym="289" image="media/save.png">
+</key>
+<key x="354" y="30" width="24" height="24" sym="290" image="media/load.png">
+</key>
+
+</emulation>
