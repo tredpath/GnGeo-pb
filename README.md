@@ -28,4 +28,5 @@ Requirements For Building
 GnGeo-pb requires the SDL12 and TouchControlOverlay libraries that can be found at:
 
 https://github.com/blackberry/TouchControlOverlay
+
 https://github.com/blackberry/SDL
